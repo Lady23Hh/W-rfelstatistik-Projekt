@@ -1,13 +1,12 @@
-# Würfel-Statistik
-Ein Python-Programm, das Würfelwürfe simuliert und die Häufigkeit der Ergebnisse analysiert.
+# Würfel-Statistik / Dice Statistics
+A Python programm that simulates dice rolls and analyzes the frequency of results.
 
-## Funktionen
-- Simuliert eine Benutzerdefinierte Anzahl von Würfelwürfen (sechsseitiger Würfel).
-- Zählt, wie oft jede Zahl ( 1 bis 6 ) gewürfelt wird.
-- Berechnet die prozentuale Verteilung der Ergebnisse.
-- Fehlerbehebung für ungültige Eingaben (z. B. Buchstaben oder negative Zahlen).
+## Funktionen / Features
+- Simulates a user-defined number of six-sided dice rolls.
+- Counts the frequencey of each number (1 to 6) rolled.
+- Calculates the percentage distribution of the results.
+- Error handling for invalid inputs (e.g., letters or negative numbers).
 
 ## Installation
-1. Stelle sicher das Python installiert ist (`python`)
-2. Lade die Datei `wuerfel_statistik.py` herunter.
-3. Führe die Datei aus: `python wuerfel_statistik.py`
+1. Ensure Python ist installed (`Python`).
+2. Download the file (`wuerfel-statistik.py´).
